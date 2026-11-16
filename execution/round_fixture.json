@@ -1,0 +1,10 @@
+{
+  "prefix": "FACET",
+  "flags": {
+    "FACET_FIXTURE": "1",
+    "FACET_HOUR": "10",
+    "FACET_MINUTE": "8",
+    "FACET_SECOND": "30",
+    "FACET_BATTERY": "82"
+  }
+}

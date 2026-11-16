@@ -1,0 +1,51 @@
+{
+  "name": "facet-watch",
+  "version": "0.2.1",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "PBL-2500",
+    "uuid": "ccff954d-bc0c-4183-9109-e3e5bbe77c47",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "chalk",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable",
+      "health",
+      "location"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "Foreground",
+      "Accent",
+      "TimeFormat",
+      "DateFormat",
+      "ShowSeconds",
+      "DigitalTime",
+      "ShowBattery",
+      "LeftDial",
+      "WeatherUnits",
+      "WeatherTemp",
+      "WeatherCode",
+      "WeatherTime",
+      "WeatherRequest"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

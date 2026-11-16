@@ -1,0 +1,16 @@
+A dimensional analog dial for your Pebble.
+
+PBL-2500 pairs broad luminous-style hands with faceted hour markers, a small-seconds dial at 9, and a three-cell fan calendar at 3. The dial carries the P-SHOCK wordmark.
+
+Make it yours:
+- Six palettes: Graphite, Steel, Olive, Ivory, Navy, and Gold.
+- Custom background, hand, and accent colors.
+- Small seconds on or off; off uses minute-only updates.
+- Fan calendar with tomorrow above today and yesterday below.
+- Optional date: Off, fan day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+- Live battery percentage, with a visibility option.
+- Optional digital time footer with watch default, 12-hour, or 24-hour format. The analog dial stays twelve-hour.
+
+The first preview cycles through the six palettes at a fixed sample time. Select your preferred colors in settings; the watchface keeps that palette.
+
+For Pebble Time 2.

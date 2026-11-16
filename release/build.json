@@ -1,0 +1,36 @@
+{
+  "name": "PBL-2500",
+  "repo": "facet-watch",
+  "app_id": "3403f49eadb7469d94ae292d",
+  "version": "0.2.1",
+  "uuid": "ccff954d-bc0c-4183-9109-e3e5bbe77c47",
+  "url": "https://apps.repebble.com/3403f49eadb7469d94ae292d",
+  "pbw_sha256": "e52422834829e53202a031879649d62b7ab5cd03167416616301d89fcb8dbe83",
+  "public_verified": true,
+  "screenshot_results": {
+    "uploaded": [
+      {
+        "platform": "chalk",
+        "filename": "chalk_01_round.png",
+        "url": "/api/assets/screenshots/3403f49eadb7469d94ae292d/chalk/750ef320-5f8e-42eb-8d1d-6eb5fdcf4265.png"
+      },
+      {
+        "platform": "chalk",
+        "filename": "chalk_02_round.png",
+        "url": "/api/assets/screenshots/3403f49eadb7469d94ae292d/chalk/48ca334f-3b53-431e-a7c1-e9a748a67d9f.png"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_01_round.png",
+        "url": "/api/assets/screenshots/3403f49eadb7469d94ae292d/gabbro/05d74d92-8bb8-4caa-951a-35cf610400b3.png"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_02_round.png",
+        "url": "/api/assets/screenshots/3403f49eadb7469d94ae292d/gabbro/39dfcece-2175-4ed8-a33b-ede3b2d9fe6e.png"
+      }
+    ],
+    "failed": []
+  },
+  "published": true
+}

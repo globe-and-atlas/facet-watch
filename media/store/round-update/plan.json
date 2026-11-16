@@ -1,0 +1,27 @@
+{
+  "repo": "facet-watch",
+  "name": "PBL-2500",
+  "version": "0.2.1",
+  "uuid": "ccff954d-bc0c-4183-9109-e3e5bbe77c47",
+  "artifact": "/Users/danielbally/Git/facet-watch/dist/PBL-2500-0.2.1.pbw",
+  "sha256": "e52422834829e53202a031879649d62b7ab5cd03167416616301d89fcb8dbe83",
+  "platform_binary_sha256": {
+    "emery": "204121879cc9d3c788af9386dcdb375d747a602f126aceba9e54ec7dd690a3ca",
+    "chalk": "f1d2abb5b77ae04e747f2cb45ad68813d0d3eda5d9943df560188547ca7fc1c8",
+    "gabbro": "caaba07ad48a96005b3fb62956998b4f6cacd55a02fe0f6bb2813d90bafb70bf"
+  },
+  "app_id": "3403f49eadb7469d94ae292d",
+  "screenshots": [
+    "/Users/danielbally/Git/facet-watch/media/store/round-update/chalk_01_round.png",
+    "/Users/danielbally/Git/facet-watch/media/store/round-update/chalk_02_round.png",
+    "/Users/danielbally/Git/facet-watch/media/store/round-update/gabbro_01_round.png",
+    "/Users/danielbally/Git/facet-watch/media/store/round-update/gabbro_02_round.png"
+  ],
+  "screenshot_sha256": {
+    "chalk_01_round.png": "bc3e454da7492076a9f95fd7388b3a1f390b57efdb8c93e454041ba5d74266fc",
+    "chalk_02_round.png": "5193ee44675d47f31be7c8a2a9257151c2caeec37168cb4aac83612becab99ad",
+    "gabbro_01_round.png": "8a8339072f236e4cb7f2371bf4c56c984c38e256b0fd1df2e63b93334e1a7cb9",
+    "gabbro_02_round.png": "8e6362e9b14b08d7e4c80c05257dfc80fa2786805e8cf6f29c0a6c437093f6e5"
+  },
+  "release_notes": "Native layouts for original Time Round (180x180) and Round 2 (260x260). Preserves the Time 2 design and existing settings. Left dial choices: Seconds, Weather, Battery, or Steps; improved text clearance."
+}

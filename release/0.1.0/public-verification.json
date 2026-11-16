@@ -1,0 +1,17 @@
+{
+  "name": "PBL-2500",
+  "url": "https://apps.repebble.com/3403f49eadb7469d94ae292d",
+  "version": "0.1.0",
+  "preview_urls": [
+    "https://assets.repebble.com/screenshots/3403f49eadb7469d94ae292d/emery/0c83c762-c4be-4511-97a2-7bd0cabf0137.gif",
+    "https://assets.repebble.com/screenshots/3403f49eadb7469d94ae292d/emery/0817eafa-9ae1-4949-b269-35b6ba6a4e00.png",
+    "https://assets.repebble.com/screenshots/3403f49eadb7469d94ae292d/emery/8d56796d-6613-4a16-92d5-337bea27d115.png",
+    "https://assets.repebble.com/screenshots/3403f49eadb7469d94ae292d/emery/df502b49-0098-4109-9a1f-5cc69202a1fc.png",
+    "https://assets.repebble.com/screenshots/3403f49eadb7469d94ae292d/emery/c71da52e-82c9-4a13-8d15-4672b681054a.png"
+  ],
+  "pbw_url": "https://appstore-api.repebble.com/api/assets/pbw/3403f49eadb7469d94ae292d/0.1.0/91a71e93-f73a-48a2-ad2e-0358ba7850e4.pbw",
+  "gif_first": true,
+  "exact_gif": true,
+  "exact_pbw": true,
+  "four_stills_match": true
+}

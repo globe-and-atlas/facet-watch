@@ -1,0 +1,39 @@
+{
+  "name": "PBL-2500",
+  "screenshots": [
+    "emery_01_palettes.gif",
+    "emery_02_palette.png",
+    "emery_03_palette.png",
+    "emery_04_palette.png",
+    "emery_05_palette.png"
+  ],
+  "frame_sources": [
+    "facet-palette-0.png",
+    "facet-palette-1.png",
+    "facet-palette-2.png",
+    "facet-palette-3.png",
+    "facet-palette-4.png",
+    "facet-palette-5.png"
+  ],
+  "palette_names": [
+    "Graphite",
+    "Steel",
+    "Olive",
+    "Ivory",
+    "Navy",
+    "Gold"
+  ],
+  "durations_ms": [
+    3000,
+    2500,
+    2500,
+    2500,
+    2500,
+    2500
+  ],
+  "size": [
+    200,
+    228
+  ],
+  "gif_sha256": "f4d58d7a8a6637021e9832a3c7e1a4646e0f981e58d8981f0015f1117f68fe4b"
+}
